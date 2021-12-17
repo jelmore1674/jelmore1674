@@ -1,16 +1,8 @@
-# Hey, I’m Justin <img src="https://camo.githubusercontent.com/509e37d3aa1923cfafa8731c0b2ccbe665d2fdd46b39d5595547763015cceeec/68747470733a2f2f646967696e6573732e63612f636f6e74656e742f75706c6f6164732f323032302f30322f776176696e675f68616e645f7369676e5f313032342e676966" width=30px>
+# Hey, I’m Justin 🤗
 
 ## About Me
 
-I am currently working towards my goal to be a full-stack web developer. I want
-to be able to create web applications that get people excited about their
-business they just started, church they just started, or whatever it is in their
-life that they want to share with the rest of the world.
-
-I come from the manufacturing world and have been learning web develpment for
-over a year. So far I have learned how to create pretty neat and nifty websites.
-I hope to continue to grow as a developer until I am the best developer I can
-be! If you are looking for a developer with my skillset and determination. Reach
+I am a passionate web developer with a background in fabrication. I love to build things that are useful and easy to use. Solving problems and learning new things are my favorite things to do. I am a self-taught programmer and I am always looking to learn new things. I am a big fan of the [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) language and I am always trying to learn new things. Since I have learned JavaScript, I have learned a lot about the [Node.js](https://nodejs.org/) framework. I am also a big fan of the [React](https://reactjs.org/) framework and I am always trying to learn new things. If you are looking for a developer with my skillset and determination. Reach
 out to me and we can set up a call. [jelmore1674@pm.me](jelmore1674@pm.me)
 
 ### LinkedIn
@@ -19,7 +11,32 @@ out to me and we can set up a call. [jelmore1674@pm.me](jelmore1674@pm.me)
 
 # Current Languages and Tools I Have Experience With
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/html5/html5-original.svg" width=40px><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/css3/css3-original.svg" width=40px><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg" width=40px><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/react/react-original.svg" width=40px><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/git/git-original.svg" width=40px><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/sass/sass-original.svg" width=40px><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-original.svg" width=40px><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mongodb/mongodb-original-wordmark.svg" width=40px><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/firebase/firebase-plain.svg" width=40px>
+## Languages
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/html5/html5-original.svg" width=40px style="margin-right: 1rem"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/css3/css3-original.svg" width=40px style="margin-right: 1rem">
+<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg" width=40px style="margin-right: 1rem"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width=40px style="margin-right: 1rem">
+
+## Front-End Tools
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/react/react-original.svg" width=40px style="margin-right: 1rem">
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nextjs/nextjs-original.svg" width=40px style="margin-right: 1rem">
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/redux/redux-original.svg" width=40px style="margin-right: 1rem">
+<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/sass/sass-original.svg" width=40px style="margin-right: 1rem">
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bootstrap/bootstrap-original.svg" width=40px style="margin-right: 1rem">
+
+## Back-End Tools
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-original.svg" width=40px style="margin-right: 1rem">
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nestjs/nestjs-plain.svg" width="40px" style="margin-right: 1rem">
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/postgresql/postgresql-original.svg" width=40px style="margin-right: 1rem">
+<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mongodb/mongodb-original-wordmark.svg" width=40px style="margin-right: 1rem">
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/redis/redis-original.svg" width="40px" style="margin-right: 1rem">
+<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/firebase/firebase-plain.svg" width=40px>
+
+## Design Tools
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/figma/figma-original.svg" width=40px style="margin-right: 1rem">
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/photoshop/photoshop-plain.svg" width=40px style="margin-right: 1rem">
 
 <!-- markdownlint-capture -->
 
